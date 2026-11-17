@@ -1,0 +1,2 @@
+p = input('Pon una palabra')
+print(p[0].upper + p[-1])
