@@ -1,0 +1,4 @@
+a = int(input('Pon un numero del 1 al 10'))
+b = int(input('Pon otro numero'))
+
+print(f'La supersuma es; {a+b}+1')
