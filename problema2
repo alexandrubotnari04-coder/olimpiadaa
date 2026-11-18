@@ -1,6 +1,6 @@
 c = int(input('Posa cuants casos vols provar: '))
 for n in c:
-    a = int(input('Posa la altura del edifici en cm: '))
-    d = int(input('Posa la distancia horitzontal a terra en cm: '))
+    a = int(input('Posa la altura del edifici en m: '))
+    d = int(input('Posa la distancia horitzontal a terra en m: '))
     tirolina = (d * a)/2
     print(tirolina)
