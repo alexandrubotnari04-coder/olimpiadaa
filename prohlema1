@@ -1,2 +1,5 @@
-p = input('Pon una palabra')
-print(p[0].upper + p[-1])
+x = int(input('Cuants casos vols provar? '))
+f = []
+for i in range(x):
+    f.append(input('Posa una paraula o una frase: ')).title()
+    print(f)
